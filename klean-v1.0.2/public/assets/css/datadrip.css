@@ -1,0 +1,63 @@
+.main {
+  background-color: rgb(213, 242, 242);
+  height: 100%;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  padding: 0rem 1.6rem;
+  gap: 1rem;
+}
+.textGuide {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 30px;
+}
+.backG {
+  margin-top: 25px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  /* height: 350px; */
+  background-color: #52c77d;
+  border-radius: 25px 0px;
+}
+.img1 {
+  margin: 20px 0px;
+  padding-right: 10px;
+  width: 48%;
+  /* margin-right: 20px; */
+  margin-left: 10px;
+  /* border: 2px solid red; */
+  border-radius: 25px;
+}
+.img2 {
+  margin: 20px 0px;
+
+  width: 44%;
+  margin-right: 10px;
+  /* border: 2px solid red; */
+  border-radius: 25px;
+}
+.designKhung {
+  border: 2px solid #52c77d;
+  width: 70%;
+  height: 40px;
+  border-radius: 25px;
+  background-color: cornflowerblue;
+  color: aliceblue;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.colorText {
+  color: black;
+}
+.goodLuck {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: red;
+  font-weight: bolder;
+  font-size: 30px;
+}
